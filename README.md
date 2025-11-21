@@ -5,7 +5,6 @@
 This project comprises two complementary AI-powered bots -
 
 ### 1️⃣ HR/Student Support Assistant Bot
-
 An intelligent conversational agent providing real-time guidance on internships, recruitment processes, interview preparation and career planning. Built with Groq's `llama-3.3-70b-versatile` model for sub-second response times.
 
 **Use Cases -**
@@ -15,8 +14,12 @@ An intelligent conversational agent providing real-time guidance on internships,
 - HR policy clarification.
 - Career path exploration.
 
-### 2️⃣ Resume Mentor Bot
+<p align="center">
+  <img src="HR & Student Support Assistant Bot/Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="HR & Student Support Assistant Bot/Screenshots/2.png" alt="2" width="1000"/><br>
+</p>
 
+### 2️⃣ Resume Mentor Bot
 An automated resume analysis tool that delivers ATS-compliant feedback with actionable improvement recommendations. Supports multiple file formats and provides comprehensive evaluation reports.
 
 **Use Cases -**
@@ -25,6 +28,11 @@ An automated resume analysis tool that delivers ATS-compliant feedback with acti
 - Keyword enhancement suggestions.
 - Job role alignment recommendations.
 - Professional formatting guidance.
+
+<p align="center">
+  <img src="Resume Mentor Bot/Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="Resume Mentor Bot/Screenshots/4.png" alt="2" width="1000"/><br>
+</p>
 
 ## ✨ Features
 
@@ -85,4 +93,3 @@ This project demonstrates proficiency in -
 - UI/UX design with Streamlit.
 - Cloud deployment and accessibility.
 - Real-world HR technology solutions.
-
