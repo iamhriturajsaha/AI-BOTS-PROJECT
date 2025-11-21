@@ -1,10 +1,10 @@
-# AI Bots Project
+# 🤖AI Bots Project
 
 ## 🎯 Overview
 
 This project comprises two complementary AI-powered bots -
 
-### 1️⃣ HR / Student Support Assistant Bot
+### 1️⃣ HR/Student Support Assistant Bot
 
 An intelligent conversational agent providing real-time guidance on internships, recruitment processes, interview preparation and career planning. Built with Groq's `llama-3.3-70b-versatile` model for sub-second response times.
 
@@ -85,3 +85,4 @@ This project demonstrates proficiency in -
 - UI/UX design with Streamlit.
 - Cloud deployment and accessibility.
 - Real-world HR technology solutions.
+
